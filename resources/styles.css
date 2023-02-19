@@ -1,0 +1,15 @@
+* {
+    font-family: Helvetica;
+}
+h1 {
+    font-size: 100px;
+    background-image: url('./tiles.jpeg');
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+h2 {
+    font-size: 32px;
+
+}
